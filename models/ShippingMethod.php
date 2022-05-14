@@ -8,7 +8,7 @@ use October\Rain\Database\Collection;
 use October\Rain\Database\Traits\Sortable;
 use October\Rain\Database\Traits\Validation;
 use OFFLINE\Mall\Classes\Traits\PriceAccessors;
-use Rainlab\Location\Models\Country as RainLabCountry;
+use Winter\Location\Models\Country as RainLabCountry;
 use System\Models\File;
 
 class ShippingMethod extends Model

@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Cache;
 use Model;
 use October\Rain\Database\Traits\Validation;
 use October\Rain\Database\Collection;
-use Rainlab\Location\Models\Country as RainLabCountry;
+use Winter\Location\Models\Country as RainLabCountry;
 
 /**
  * @mixin \Illuminate\Database\Eloquent\Builder
